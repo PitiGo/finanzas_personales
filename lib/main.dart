@@ -27,7 +27,6 @@ class MyApp extends StatelessWidget {
           DetailsParams params = settings.arguments;
           if (settings.name == '/details') {
              
-             
             //  Rect buttonRect = settings.arguments;
             return MaterialPageRoute(
               builder: (BuildContext context) {
