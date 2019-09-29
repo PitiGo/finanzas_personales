@@ -27,6 +27,7 @@ class MyApp extends StatelessWidget {
           DetailsParams params = settings.arguments;
           if (settings.name == '/details') {
              
+             
             //  Rect buttonRect = settings.arguments;
             return MaterialPageRoute(
               builder: (BuildContext context) {
@@ -38,7 +39,6 @@ class MyApp extends StatelessWidget {
           }else return MaterialPageRoute();
         },
         routes: {
-          
           '/': (BuildContext context) {
             var state = Provider.of<LoginState>(context);
             if (state.isLogged()) {
