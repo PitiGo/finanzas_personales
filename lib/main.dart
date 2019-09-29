@@ -38,6 +38,7 @@ class MyApp extends StatelessWidget {
           }else return MaterialPageRoute();
         },
         routes: {
+          
           '/': (BuildContext context) {
             var state = Provider.of<LoginState>(context);
             if (state.isLogged()) {
