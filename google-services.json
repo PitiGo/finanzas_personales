@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "978601780154",
+    "firebase_url": "https://finanzas-personales-5b583.firebaseio.com",
+    "project_id": "finanzas-personales-5b583",
+    "storage_bucket": "finanzas-personales-5b583.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978601780154:android:96d6f9b7aad0e2c8",
+        "android_client_info": {
+          "package_name": "com.example.finanzas_personales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978601780154-0akogu358sfa05l0e9o8ni5m0hbehema.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_2TJDikDuYlTr3svVpdyyP-tBCI6pjTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978601780154-0akogu358sfa05l0e9o8ni5m0hbehema.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

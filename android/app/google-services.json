@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "978601780154",
+    "firebase_url": "https://finanzas-personales-5b583.firebaseio.com",
+    "project_id": "finanzas-personales-5b583",
+    "storage_bucket": "finanzas-personales-5b583.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978601780154:android:96d6f9b7aad0e2c8",
+        "android_client_info": {
+          "package_name": "com.example.finanzas_personales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978601780154-frkb3bdb21ntrbb4d449tqup6el0bmn7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finanzas_personales",
+            "certificate_hash": "53f74a221988139462d30010f1c76fd3dcc24376"
+          }
+        },
+        {
+          "client_id": "978601780154-bubupl56avpl0e3po13dftcni7oe2p60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finanzas_personales",
+            "certificate_hash": "e9ed04c975149398e03d80ffccdc3d0978796976"
+          }
+        },
+        {
+          "client_id": "978601780154-t1tliibriimlqtosnl5giapebt7lakid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finanzas_personales",
+            "certificate_hash": "fcafdd3a6ca2ae1898d08fbda89238f6a8e1347a"
+          }
+        },
+        {
+          "client_id": "978601780154-0akogu358sfa05l0e9o8ni5m0hbehema.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_2TJDikDuYlTr3svVpdyyP-tBCI6pjTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978601780154-0akogu358sfa05l0e9o8ni5m0hbehema.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
