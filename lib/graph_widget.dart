@@ -63,6 +63,7 @@ class _LinesGraphWidgetState extends State<LinesGraphWidget> {
         measureFn: (value, _) => value,
         data: widget.data,
         strokeWidthPxFn: (_, __) => 4,
+        
       )
     ];
 

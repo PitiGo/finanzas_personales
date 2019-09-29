@@ -167,3 +167,12 @@ class _MonthWidgetState extends State<MonthWidget> {
     );
   }
 }
+
+
+// class Expense {
+//   String category;
+//   double expenseValue;
+//   Color colorvalue;
+
+//   Expense(this.category, this.expenseValue, this.colorvalue);
+// }

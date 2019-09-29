@@ -15,6 +15,22 @@
       },
       "oauth_client": [
         {
+          "client_id": "978601780154-jigr9407q390uc2b0jmvf1fcvfnct3po.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finanzas_personales",
+            "certificate_hash": "1306d0c720d02fff348904b886d443853ead16d0"
+          }
+        },
+        {
+          "client_id": "978601780154-dmfscbbms6cogvif9djc9etp9685c343.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finanzas_personales",
+            "certificate_hash": "de2f0eadd9fecaf13e80cb1a66acff49c5c32c58"
+          }
+        },
+        {
           "client_id": "978601780154-frkb3bdb21ntrbb4d449tqup6el0bmn7.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
